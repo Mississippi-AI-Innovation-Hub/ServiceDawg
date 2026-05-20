@@ -1,4 +1,4 @@
-# MDA IT Helpdesk AI (Phase 1 PoC)
+# MDA IT Helpdesk AI (PoC)
 
 This repository contains the code and documentation for an Artificial Intelligence Innovation Hub Proof of Concept focused on reducing redundant, low-complexity IT Helpdesk tickets. The PoC was developed to explore whether a Retrieval-Augmented Generation (RAG) assistant could help the Mississippi Development Authority (MDA) by securely referencing IT manuals to provide instant troubleshooting. The project demonstrates feasibility within a limited prototype environment and is not a production-ready solution.
 
